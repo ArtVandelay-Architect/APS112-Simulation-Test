@@ -44,8 +44,8 @@ def startOpti():
 
 startIndex = 5793#7364
 
-ap = Onfleet(api_key = "111c0076f298f8a90adfe86c5e33571c")
-gmaps = googlemaps.Client(key='AIzaSyCrQIO8NlrMYuNgLoIm_XhjIOtXX1jKMUM')
+ap = Onfleet(api_key = "")
+gmaps = googlemaps.Client(key='')
 
 taskC = 0 #task count
 totals = []
